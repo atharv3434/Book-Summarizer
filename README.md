@@ -1,10 +1,10 @@
 # Book-Summarizer
 
 
-📚 AI-Powered Book Summarizer 
+ Summarizer 
 An offline, console-based AI-powered book summarizer that summarizes book content using NLP techniques in Java.
 
-📌 Key Features
+ Key Features
 ✔ Summarizes long books into short, readable summaries 📖
 ✔ Works offline without requiring an internet connection 🌍
 ✔ Users can add custom book content for summarization ✍️
