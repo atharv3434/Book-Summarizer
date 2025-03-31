@@ -1,7 +1,7 @@
 # Book-Summarizer
 
 
-📚 AI-Powered Book Summarizer (Java-Only Project)
+📚 AI-Powered Book Summarizer 
 An offline, console-based AI-powered book summarizer that summarizes book content using NLP techniques in Java.
 
 📌 Key Features
@@ -12,9 +12,7 @@ An offline, console-based AI-powered book summarizer that summarizes book conten
 ✔ Simple console-based UI for easy interaction 🖥️
 
 📂 Project Structure
-css
-Copy
-Edit
+
 BookSummarizer/
 │── BookSummarizer.java        (Main Application)
 │── TextProcessor.java         (Processes and Summarizes Book Content)
